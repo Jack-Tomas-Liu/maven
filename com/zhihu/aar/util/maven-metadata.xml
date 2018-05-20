@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zhihu.aar</groupId>
+  <artifactId>util</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>null</version>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20180520052913</lastUpdated>
+  </versioning>
+</metadata>
